@@ -1,0 +1,6 @@
+projectKey=com.wipro:java-dynamic-project-wipro
+serverUrl=http://localhost:9000
+serverVersion=7.9.6.41879
+dashboardUrl=http://localhost:9000/dashboard?id=com.wipro%3Ajava-dynamic-project-wipro
+ceTaskId=AY5rzY4aGKp8EnRPCDFa
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AY5rzY4aGKp8EnRPCDFa
