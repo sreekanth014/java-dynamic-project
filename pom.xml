@@ -73,6 +73,10 @@
         <name>devops</name>
 	<url>http://34.239.108.44:8081/repository/devops/</url>
       </snapshotRepository>
-      
+      <repository>
+        <id>nexus</id>
+        <name>devops</name>
+	<url>http://34.239.108.44:8081/repository/devops/</url>
+      </repository>	
    </distributionManagement>
 </project>
