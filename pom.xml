@@ -71,12 +71,12 @@
       <snapshotRepository>
         <id>nexus</id>
         <name>devops</name>
-	<url>http://34.239.108.44:8081/repository/devops/</url>
+	<url>http://107.20.115.189:8081/repository/jenkinstonexus/</url>
       </snapshotRepository>
       <repository>
         <id>nexus</id>
         <name>devops</name>
-	<url>http://34.239.108.44:8081/repository/devops/</url>
+	<url>http://107.20.115.189:8081/repository/jenkinstonexus/</url>
       </repository>	
    </distributionManagement>
 </project>
