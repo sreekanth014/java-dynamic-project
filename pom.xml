@@ -10,6 +10,7 @@
   <artifactId>java-dynamic-project-wipro</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>war</packaging>
+	
 
   <name>java-dynamic-project-wipro Maven Webapp</name>
   <!-- FIXME change it to the project's website -->
@@ -19,8 +20,8 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>1.7</maven.compiler.source>
     <maven.compiler.target>1.7</maven.compiler.target>
-    <sonar.host.url>http://3.95.7.176:9000/</sonar.host.url>
-    <sonar.login>31fe36d6fab3b602006c144c3738512abaa62b3c</sonar.login>
+    <sonar.host.url>http://44.211.127.250:9000/</sonar.host.url>
+    <sonar.login>6c11bce0f7a44c86395b425d761b6127e63d0647</sonar.login>
   </properties>
 
   <dependencies>
