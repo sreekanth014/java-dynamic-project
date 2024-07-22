@@ -22,4 +22,4 @@ jobs:
         distribution: 'adopt'
         java-version: '11'
     - name: Build with Maven
-      run: mvn clean install -f MyWebApp/pom.xml
+      run: mvn clean install -f java-dynamic-project-wipro/pom.xml
